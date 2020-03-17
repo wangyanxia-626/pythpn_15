@@ -1,0 +1,19 @@
+总结：
+1、为什么要用配置文件？
+后面接口自动化会用到，配置数据库参数、配置测试用例的运行模式、服务器地址
+2、配置文件的表达
+文件格式：.cfg/.conf/.ini/properties
+编写格式：section 区域/模块 格式：[section_name]
+在section之下有：option=value
+可以多个option换行区分
+3、读取配置数据 用的模块是configparse的ConfigParse类
+步骤：
+  1》实例化ConfigParse类：cf=ConfigParse()
+  2>加载配置文件：cf.read(文件名称，编码方式)
+  3》获取配置数据：获取sections:cf.sections()
+                获取options:cf.options()
+                获取value：str/int/bool/folat
+                get(section,option)
+                getint(section,option)
+                getboolean(section,option)
+                getfloat(section,option)

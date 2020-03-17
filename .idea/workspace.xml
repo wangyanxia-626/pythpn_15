@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e74f92d4-35dd-4e2e-9547-9713d0a92c5e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YR8rzPqRMMAim97cyzMATCYFfi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/class_0313/data" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\pythpn_15\class_0313\data" />
+      <recent name="F:\pythpn_15\class_0305" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.run">
+    <configuration name="class_config" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythpn_15" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_0305" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_0305/class_config.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="learn_log" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythpn_15" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_0305" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_0305/learn_log.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="logger" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythpn_15" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_0314/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_0314/common/logger.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythpn_15" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_0310shizhan" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_0310shizhan/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_login.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="pythpn_15" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_0314/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/class_0314/testcase/test_login.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python tests.Unittests in test_login.py" />
+        <item itemvalue="Python.logger" />
+        <item itemvalue="Python.learn_log" />
+        <item itemvalue="Python.class_config" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e74f92d4-35dd-4e2e-9547-9713d0a92c5e" name="Default Changelist" comment="" />
+      <created>1582894248056</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582894248056</updated>
+      <workItem from="1582894249206" duration="20444000" />
+      <workItem from="1583241883261" duration="6193000" />
+      <workItem from="1583286776343" duration="23630000" />
+      <workItem from="1583375595035" duration="4834000" />
+      <workItem from="1583477995486" duration="17934000" />
+      <workItem from="1583566394790" duration="12845000" />
+      <workItem from="1583637315044" duration="10933000" />
+      <workItem from="1583717235467" duration="25380000" />
+      <workItem from="1583801334688" duration="2227000" />
+      <workItem from="1583804760077" duration="1450000" />
+      <workItem from="1583806447049" duration="25453000" />
+      <workItem from="1583908303014" duration="10150000" />
+      <workItem from="1583977351932" duration="17454000" />
+      <workItem from="1584011588486" duration="36654000" />
+      <workItem from="1584169013035" duration="14569000" />
+      <workItem from="1584234398825" duration="40384000" />
+      <workItem from="1584406980397" duration="9412000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="requirements.txt" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1510" y="170" key="#Notifications" timestamp="1584410802039">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1510" y="170" key="#Notifications/0.0.2560.1040@0.0.2560.1040" timestamp="1584410802039" />
+    <state x="1654" y="314" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583325123142">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1654" y="314" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1040@0.0.2560.1040" timestamp="1583325123142" />
+    <state x="1027" y="294" key="FileChooserDialogImpl" timestamp="1583847593223">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1027" y="294" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1583847593223" />
+    <state width="1303" height="342" key="GridCell.Tab.0.bottom" timestamp="1584430201727">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1303" height="342" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1584430201727" />
+    <state width="1303" height="342" key="GridCell.Tab.0.center" timestamp="1584430201726">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1303" height="342" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1584430201726" />
+    <state width="1303" height="342" key="GridCell.Tab.0.left" timestamp="1584430201726">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1303" height="342" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1584430201726" />
+    <state width="1303" height="342" key="GridCell.Tab.0.right" timestamp="1584430201727">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1303" height="342" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1584430201727" />
+    <state width="1303" height="342" key="GridCell.Tab.1.bottom" timestamp="1584430201727">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1303" height="342" key="GridCell.Tab.1.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1584430201727" />
+    <state width="1303" height="342" key="GridCell.Tab.1.center" timestamp="1584430201727">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1303" height="342" key="GridCell.Tab.1.center/0.0.2560.1040@0.0.2560.1040" timestamp="1584430201727" />
+    <state width="1303" height="342" key="GridCell.Tab.1.left" timestamp="1584430201727">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1303" height="342" key="GridCell.Tab.1.left/0.0.2560.1040@0.0.2560.1040" timestamp="1584430201727" />
+    <state width="1303" height="342" key="GridCell.Tab.1.right" timestamp="1584430201727">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1303" height="342" key="GridCell.Tab.1.right/0.0.2560.1040@0.0.2560.1040" timestamp="1584430201727" />
+    <state x="1392" y="144" key="SettingsEditor" timestamp="1584175672259">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1392" y="144" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1584175672259" />
+    <state x="1572" y="326" key="com.intellij.ide.util.TipDialog" timestamp="1584406980849">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1572" y="326" key="com.intellij.ide.util.TipDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1584406980849" />
+    <state x="1440" y="195" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583802197762">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1440" y="195" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2560.1040@0.0.2560.1040" timestamp="1583802197762" />
+    <state x="1596" y="272" width="672" height="678" key="search.everywhere.popup" timestamp="1584012233105">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1596" y="272" width="672" height="678" key="search.everywhere.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1584012233105" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class_0313/common/context.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythpn_15$Unittests_for_test_login_LoginTest.coverage" NAME="Unittests for test_login.LoginTest Coverage Results" MODIFIED="1584084948286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0313/testcase" />
+    <SUITE FILE_PATH="coverage/pythpn_15$class_config.coverage" NAME="class_config Coverage Results" MODIFIED="1584407109823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0305" />
+    <SUITE FILE_PATH="coverage/pythpn_15$lujing.coverage" NAME="lujing Coverage Results" MODIFIED="1584119038778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0228" />
+    <SUITE FILE_PATH="coverage/pythpn_15$Unittests_in_http_unittest2_py.coverage" NAME="Unittests in http_unittest2.py Coverage Results" MODIFIED="1583731538539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0307" />
+    <SUITE FILE_PATH="coverage/pythpn_15$.coverage" NAME="基础面试题 Coverage Results" MODIFIED="1583844111534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0310" />
+    <SUITE FILE_PATH="coverage/pythpn_15$read_config.coverage" NAME="read_config Coverage Results" MODIFIED="1583481889740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0305" />
+    <SUITE FILE_PATH="coverage/pythpn_15$Unittests_for_learn_ddt_TestAdd_test_001.coverage" NAME="Unittests for learn_ddt.TestAdd.test_001 Coverage Results" MODIFIED="1583659244015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0308" />
+    <SUITE FILE_PATH="coverage/pythpn_15$class_02.coverage" NAME="class_02 Coverage Results" MODIFIED="1582962571283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0228" />
+    <SUITE FILE_PATH="coverage/pythpn_15$Unittests_in_test_register_py.coverage" NAME="Unittests in test_register.py Coverage Results" MODIFIED="1584364333916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0313/testcase" />
+    <SUITE FILE_PATH="coverage/pythpn_15$classhome_work.coverage" NAME="classhome_work Coverage Results" MODIFIED="1582901237064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0228" />
+    <SUITE FILE_PATH="coverage/pythpn_15$Unittests_for_http_unittest_TestHttp_Request_test_username_empty.coverage" NAME="Unittests for http_unittest.TestHttp_Request.test_username_empty Coverage Results" MODIFIED="1583588861207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0307" />
+    <SUITE FILE_PATH="coverage/pythpn_15$config.coverage" NAME="config Coverage Results" MODIFIED="1584356992049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0313/common" />
+    <SUITE FILE_PATH="coverage/pythpn_15$class_conf.coverage" NAME="class_conf Coverage Results" MODIFIED="1583333441133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0304" />
+    <SUITE FILE_PATH="coverage/pythpn_15$http_request__1_.coverage" NAME="http_request (1) Coverage Results" MODIFIED="1584101258904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0313/common" />
+    <SUITE FILE_PATH="coverage/pythpn_15$homework.coverage" NAME="homework Coverage Results" MODIFIED="1583980777843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0310shizhan" />
+    <SUITE FILE_PATH="coverage/pythpn_15$Unittests_for_learn_unittest_TestMathMethod_test_add_zero.coverage" NAME="Unittests for learn_unittest.TestMathMethod.test_add_zero Coverage Results" MODIFIED="1583568408457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0306" />
+    <SUITE FILE_PATH="coverage/pythpn_15$http_suit.coverage" NAME="http_suit Coverage Results" MODIFIED="1583844428201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0307" />
+    <SUITE FILE_PATH="coverage/pythpn_15$Unittests_in_learn_ddt_py.coverage" NAME="Unittests in learn_ddt.py Coverage Results" MODIFIED="1583659296084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0308" />
+    <SUITE FILE_PATH="coverage/pythpn_15$do_excel.coverage" NAME="do_excel Coverage Results" MODIFIED="1584172102783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0313/common" />
+    <SUITE FILE_PATH="coverage/pythpn_15$http_request.coverage" NAME="http_request Coverage Results" MODIFIED="1584191324550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0313/common" />
+    <SUITE FILE_PATH="coverage/pythpn_15$boy_friend.coverage" NAME="boy_friend Coverage Results" MODIFIED="1582946196395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0228" />
+    <SUITE FILE_PATH="coverage/pythpn_15$pathon_jichu.coverage" NAME="pathon_jichu Coverage Results" MODIFIED="1583745235321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0308" />
+    <SUITE FILE_PATH="coverage/pythpn_15$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1583759805784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0307" />
+    <SUITE FILE_PATH="coverage/pythpn_15$learn_requests.coverage" NAME="learn_requests Coverage Results" MODIFIED="1583245946053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0303" />
+    <SUITE FILE_PATH="coverage/pythpn_15$Unittests_for_http_unittest_TestHttp_Request_test_login_normal.coverage" NAME="Unittests for http_unittest.TestHttp_Request.test_login_normal Coverage Results" MODIFIED="1583588613373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0307" />
+    <SUITE FILE_PATH="coverage/pythpn_15$study_reflect.coverage" NAME="study_reflect Coverage Results" MODIFIED="1584339776146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0310shizhan" />
+    <SUITE FILE_PATH="coverage/pythpn_15$context.coverage" NAME="context Coverage Results" MODIFIED="1584353391108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0313/common" />
+    <SUITE FILE_PATH="coverage/pythpn_15$Unittests_for_learn_ddt_TestAdd.coverage" NAME="Unittests for learn_ddt.TestAdd Coverage Results" MODIFIED="1583658541502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0308" />
+    <SUITE FILE_PATH="coverage/pythpn_15$Unittests_for_learn_unittest_TestMathMethod_test_add_positive_nagative.coverage" NAME="Unittests for learn_unittest.TestMathMethod.test_add_positive_nagative Coverage Results" MODIFIED="1583568542961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0306" />
+    <SUITE FILE_PATH="coverage/pythpn_15$Unittests_for_learn_ddt_TestAdd_test_002.coverage" NAME="Unittests for learn_ddt.TestAdd.test_002 Coverage Results" MODIFIED="1583658427865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0308" />
+    <SUITE FILE_PATH="coverage/pythpn_15$http_xlsx.coverage" NAME="http_xlsx Coverage Results" MODIFIED="1583844576962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0307" />
+    <SUITE FILE_PATH="coverage/pythpn_15$study_session_request.coverage" NAME="study_session_request Coverage Results" MODIFIED="1583983533501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0312" />
+    <SUITE FILE_PATH="coverage/pythpn_15$Unittests_in_test_bidLoan_py__1_.coverage" NAME="Unittests in test_bidLoan.py (1) Coverage Results" MODIFIED="1584368425250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0314/testcase" />
+    <SUITE FILE_PATH="coverage/pythpn_15$class_01.coverage" NAME="class_01 Coverage Results" MODIFIED="1582894963885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0228" />
+    <SUITE FILE_PATH="coverage/pythpn_15$math_method.coverage" NAME="math_method Coverage Results" MODIFIED="1583567495157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0306" />
+    <SUITE FILE_PATH="coverage/pythpn_15$Sd_youjian__1_.coverage" NAME="Sd_youjian (1) Coverage Results" MODIFIED="1583847495935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0307" />
+    <SUITE FILE_PATH="coverage/pythpn_15$call_web.coverage" NAME="call_web Coverage Results" MODIFIED="1583982766509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0310shizhan" />
+    <SUITE FILE_PATH="coverage/pythpn_15$learn_log.coverage" NAME="learn_log Coverage Results" MODIFIED="1584407770354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0305" />
+    <SUITE FILE_PATH="coverage/pythpn_15$study_eval_json.coverage" NAME="study_eval_json Coverage Results" MODIFIED="1584017258239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0312" />
+    <SUITE FILE_PATH="coverage/pythpn_15$requests_homework.coverage" NAME="requests_homework Coverage Results" MODIFIED="1583288376324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0303" />
+    <SUITE FILE_PATH="coverage/pythpn_15$learn_openpyxl.coverage" NAME="learn_openpyxl Coverage Results" MODIFIED="1583317255106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0303" />
+    <SUITE FILE_PATH="coverage/pythpn_15$Unittests_in_test_login_py.coverage" NAME="Unittests in test_login.py Coverage Results" MODIFIED="1584412763132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0314/testcase" />
+    <SUITE FILE_PATH="coverage/pythpn_15$demo_conf.coverage" NAME="demo_conf Coverage Results" MODIFIED="1583327869575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0304" />
+    <SUITE FILE_PATH="coverage/pythpn_15$send_email.coverage" NAME="send_email Coverage Results" MODIFIED="1583846589868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0307" />
+    <SUITE FILE_PATH="coverage/pythpn_15$Unittests_in_test_bidLoan_py.coverage" NAME="Unittests in test_bidLoan.py Coverage Results" MODIFIED="1584364352982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0313/testcase" />
+    <SUITE FILE_PATH="coverage/pythpn_15$run.coverage" NAME="run Coverage Results" MODIFIED="1584414103565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0310shizhan" />
+    <SUITE FILE_PATH="coverage/pythpn_15$Unittests_in_learn_unittest_py.coverage" NAME="Unittests in learn_unittest.py Coverage Results" MODIFIED="1583585779367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0306" />
+    <SUITE FILE_PATH="coverage/pythpn_15$do_excel__1_.coverage" NAME="do_excel (1) Coverage Results" MODIFIED="1584100753066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0313/common" />
+    <SUITE FILE_PATH="coverage/pythpn_15$learn_openpy_2.coverage" NAME="learn_openpy_2 Coverage Results" MODIFIED="1583324635735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0303" />
+    <SUITE FILE_PATH="coverage/pythpn_15$lianxi.coverage" NAME="lianxi Coverage Results" MODIFIED="1583324132298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0303" />
+    <SUITE FILE_PATH="coverage/pythpn_15$study_request.coverage" NAME="study_request Coverage Results" MODIFIED="1583997703894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0310shizhan" />
+    <SUITE FILE_PATH="coverage/pythpn_15$Email_console.coverage" NAME="Email_console Coverage Results" MODIFIED="1583803953644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/homework_2019_3_28" />
+    <SUITE FILE_PATH="coverage/pythpn_15$contants.coverage" NAME="contants Coverage Results" MODIFIED="1584356925935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0313/common" />
+    <SUITE FILE_PATH="coverage/pythpn_15$do_mysql.coverage" NAME="do_mysql Coverage Results" MODIFIED="1584364059695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0313/common" />
+    <SUITE FILE_PATH="coverage/pythpn_15$Unittests_for_test_bidLoan_BidloanTeat_test_bidloan.coverage" NAME="Unittests for test_bidLoan.BidloanTeat.test_bidloan Coverage Results" MODIFIED="1584348667894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0313/testcase" />
+    <SUITE FILE_PATH="coverage/pythpn_15$Unittests_in_test_recharge_py.coverage" NAME="Unittests in test_recharge.py Coverage Results" MODIFIED="1584364456573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0313/testcase" />
+    <SUITE FILE_PATH="coverage/pythpn_15$study_pymysql.coverage" NAME="study_pymysql Coverage Results" MODIFIED="1584177844721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0312" />
+    <SUITE FILE_PATH="coverage/pythpn_15$Unittests_in_http_unittest_py.coverage" NAME="Unittests in http_unittest.py Coverage Results" MODIFIED="1583731603152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0307" />
+    <SUITE FILE_PATH="coverage/pythpn_15$Unittests_for_learn_ddt_TestAdd_test_add_zero.coverage" NAME="Unittests for learn_ddt.TestAdd.test_add_zero Coverage Results" MODIFIED="1583658571081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0308" />
+    <SUITE FILE_PATH="coverage/pythpn_15$Unittests_in_test_register_py__1_.coverage" NAME="Unittests in test_register.py (1) Coverage Results" MODIFIED="1584367623649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0314/testcase" />
+    <SUITE FILE_PATH="coverage/pythpn_15$contants__1_.coverage" NAME="contants (1) Coverage Results" MODIFIED="1584071818031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0313/common" />
+    <SUITE FILE_PATH="coverage/pythpn_15$re_study.coverage" NAME="re_study Coverage Results" MODIFIED="1584324975996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0310shizhan" />
+    <SUITE FILE_PATH="coverage/pythpn_15$class_03.coverage" NAME="class_03 Coverage Results" MODIFIED="1582967250402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0228" />
+    <SUITE FILE_PATH="coverage/pythpn_15$Unittests_in_test_addproject_py.coverage" NAME="Unittests in test_addproject.py Coverage Results" MODIFIED="1584363804731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0313/testcase" />
+    <SUITE FILE_PATH="coverage/pythpn_15$logger.coverage" NAME="logger Coverage Results" MODIFIED="1584410775919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0314/common" />
+    <SUITE FILE_PATH="coverage/pythpn_15$test_suite.coverage" NAME="test_suite Coverage Results" MODIFIED="1583657282385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0306" />
+    <SUITE FILE_PATH="coverage/pythpn_15$http_E__1_.coverage" NAME="http_E (1) Coverage Results" MODIFIED="1583847427869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0307" />
+    <SUITE FILE_PATH="coverage/pythpn_15$http_email.coverage" NAME="http_email Coverage Results" MODIFIED="1583812675754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0307" />
+    <SUITE FILE_PATH="coverage/pythpn_15$do_mysql__1_.coverage" NAME="do_mysql (1) Coverage Results" MODIFIED="1584368395379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0314/common" />
+    <SUITE FILE_PATH="coverage/pythpn_15$email_colose.coverage" NAME="email_colose Coverage Results" MODIFIED="1583847275770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0307" />
+  </component>
+</project>

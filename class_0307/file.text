@@ -1,0 +1,18 @@
+----------------------------------------------------------------------
+Ran 4 tests in 0.674s
+
+OK
+....
+----------------------------------------------------------------------
+Ran 4 tests in 0.652s
+
+OK
+test_password_empty (class_0307.http_unittest.Test_Pwderror) ... ok
+test_password_error (class_0307.http_unittest.Test_Pwderror) ... ok
+test_login_normal (class_0307.http_unittest.TestHttp_Request) ... ok
+test_username_empty (class_0307.http_unittest.TestHttp_Request) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.687s
+
+OK

@@ -1,0 +1,25 @@
+this is a debug msg
+this is a info msg
+this is a warning msg
+this is a error msg
+this is a critical msg
+this is a debug msg
+this is a info msg
+this is a warning msg
+this is a error msg
+this is a critical msg
+this is a debug msg
+this is a info msg
+this is a warning msg
+this is a error msg
+this is a critical msg
+2020-03-06 18:39:47,291-DEBUG]-learn_log.py-root-日志信息：this is a debug msg
+2020-03-06 18:39:47,292-INFO]-learn_log.py-root-日志信息：this is a info msg
+2020-03-06 18:39:47,292-WARNING]-learn_log.py-root-日志信息：this is a warning msg
+2020-03-06 18:39:47,292-ERROR]-learn_log.py-root-日志信息：this is a error msg
+2020-03-06 18:39:47,292-CRITICAL]-learn_log.py-root-日志信息：this is a critical msg
+2020-03-17 09:16:10,472-DEBUG-learn_log.py-root-鏃ュ織淇℃伅锛歵his is a debug msg
+2020-03-17 09:16:10,487-INFO-learn_log.py-root-鏃ュ織淇℃伅锛歵his is a info msg
+2020-03-17 09:16:10,487-WARNING-learn_log.py-root-鏃ュ織淇℃伅锛歵his is a warning msg
+2020-03-17 09:16:10,487-ERROR-learn_log.py-root-鏃ュ織淇℃伅锛歵his is a error msg
+2020-03-17 09:16:10,487-CRITICAL-learn_log.py-root-鏃ュ織淇℃伅锛歵his is a critical msg
